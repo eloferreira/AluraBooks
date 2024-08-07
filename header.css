@@ -29,4 +29,8 @@
     display: block;
   }
 
-  
+  .lista-menu_titulo
+  .lista-menu-item { 
+    padding: 1em;
+    background-color: var(--branco);
+  }
